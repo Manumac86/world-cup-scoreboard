@@ -1,1 +1,1 @@
-export { default as Scoreboard } from "./ScoreBoard";
+export { default as Scoreboard } from "./Scoreboard";

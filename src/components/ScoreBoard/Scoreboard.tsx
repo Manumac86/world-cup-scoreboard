@@ -5,7 +5,7 @@ export interface ScoreboardProps {
 }
 
 const Scoreboard = (props: ScoreboardProps) => {
-  return <button>{props.label}</button>;
+  return <input placeholder={props.label}></input>;
 };
 
 export default Scoreboard;
